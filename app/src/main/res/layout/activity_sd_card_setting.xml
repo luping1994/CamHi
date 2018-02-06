@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="vertical"
+        android:padding="5dip" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sd_card_setting_storage_size" />
+
+            <TextView
+                android:id="@+id/storage_space_size"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="right"
+                android:textColor="@android:color/black"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <ImageView
+             android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dip"
+            android:background="#eee" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sd_card_setting_available_size" />
+
+            <TextView
+                android:id="@+id/available_space_size"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:gravity="right"
+                android:textColor="@android:color/black"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <ImageView
+             android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dip"
+            android:background="#eee" />
+
+        <ImageView
+             android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_marginTop="25dip"
+            android:layout_marginBottom="15dip"
+            android:background="#eee" />
+
+        <Button
+            android:id="@+id/format_sd_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:text="@string/sd_card_setting_format_sd_card" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="2dip"
+            android:text="@string/sd_card_setting_btm_tips"
+            android:textColor="@android:color/holo_red_dark" />
+    </LinearLayout>
+
+</LinearLayout>

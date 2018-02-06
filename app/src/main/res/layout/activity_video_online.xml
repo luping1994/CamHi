@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+<!--     <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/layout_search_no_result"
+            android:layout_width="match_parent"
+            android:layout_height="60dip"
+            android:background="#cccccc"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="8dip" >
+
+            <ImageView
+                android:layout_width="20dip"
+                android:layout_height="20dip"
+                android:src="@android:drawable/ic_dialog_alert" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:text="@string/txtNoResultFound" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_search_duration"
+            android:layout_width="match_parent"
+            android:layout_height="60dip"
+            android:background="@color/result_view"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:padding="8dip"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/txt_search_event"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtSearchEventDuration"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/tv_search_duration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </RelativeLayout> -->
+
+    <ListView
+        android:id="@+id/list_video_online"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_camera_fragment_main_bg" >
+    </ListView>
+
+</LinearLayout>

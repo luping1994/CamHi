@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#ffffffff</color>
+    <color name="live_view_layout_sides">#30000000</color>
+    
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="tab_bg_press">#b6b6b7</color>
+    <color name="tab_bg_normal">#c9e4e0</color>
+    
+    <color name="btn_bg_press">#c9e4e0</color>
+    <color name="btn_bg_normal">#00a8ff</color>
+    
+    <color name="title_middle">#00a8ff</color>
+    <color name="switch_tab_bg">#00c6ff</color>
+    <color name="layout_to_clivk_nor">#ffffff</color>
+    <color name="layout_to_clivk_press">#eee</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    
+        <color name="tab_bg_color">#55b6af</color>
+    <color name="title_bar_bg_color">#55b6af</color>
+    <color name="space_line">#c0c0c0</color>
+    <color name="edit_box_bg">#eeeeef</color>
+    <color name="edit_box_stroke">#c0c0c0</color>
+    <color name="list_info_text">#999999</color>
+    <color name="font_normal">#757475</color>
+    <color name="font_title">#757475</color>
+    <color name="font_edit_input">#a1a1a1</color>
+    <color name="font_btn">#fefefe</color>
+    
+
+    
+    <color name="popview_bg">#dbdddd</color>
+     
+	<color name="btn_setting_bg_normal">#00FFFFFF</color>
+	<color name="btn_setting_bg_press">#a1cdda</color>
+	
+
+	
+	<color name="radio_bg_normal">#b6b6b7</color>
+	<color name="radio_bg_selected">#80000000</color>
+	
+
+	 <color name="project_divide_color">#e0e0e0</color>
+	 <color name="project_title_color">#636363</color>
+	 <color name="project_item_color">#bababa</color>
+	  
+	  <color name="btn_live_bg">#c9e4e0</color>
+	  <color name="marquee_red">#ff0000</color>
+	  <color name="video_item_front_color">#0409e6</color>
+	  
+	  <color name="main_bg">#212929</color>
+	  <color name="main_bg_pre">#6a6a6a</color>
+
+</resources>

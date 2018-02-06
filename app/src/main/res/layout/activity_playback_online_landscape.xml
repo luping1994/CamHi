@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/playback_view_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.thecamhi.base.MyPlaybackGLMonitor
+        android:id="@+id/monitor_playback_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <LinearLayout
+        android:id="@+id/laypout_playback_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="@dimen/live_view_layout_width"
+            android:layout_height="@dimen/live_view_layout_height"
+            android:background="@drawable/btn_live_box_bg"
+            android:src="@drawable/camhi_live_normal_exit" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_shade"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@color/edit_box_bg"
+        android:contentDescription="@null" />
+
+    <ProgressBar
+        android:id="@+id/prs_loading"
+        style="@style/hi_rogress_horizontal"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <SeekBar
+        android:id="@+id/prs_playing"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/play_btn_playback_online"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/play_btn_playback_online"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/playback_play_btn_bg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dip" />
+
+</RelativeLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/edit_box_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="@drawable/main_title_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/title_middle_camera_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="20dip" />
+
+        <Button
+            android:id="@+id/btn_edit_camera_fragment"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dip"
+            android:background="@drawable/btn_bg_opposite"
+            android:text="@string/btn_edit"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/add_camera_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/layout_camera_fragment_add_bg"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:paddingLeft="10dip" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_add_camera" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dip"
+            android:textColor="@android:color/black"
+            android:gravity="center_vertical"
+            android:text="@string/click_to_add_camera" />
+    </LinearLayout>
+
+    <com.thecamhi.widget.swipe.SwipeMenuListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_camera_fragment_main_bg"
+        android:divider="@color/radio_bg_normal"
+        android:dividerHeight="1dip" />
+
+</LinearLayout>

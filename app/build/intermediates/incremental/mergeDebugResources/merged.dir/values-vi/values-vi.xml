@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_action_picture_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="audio_input_style">
+        <item>Line in</item>
+        <item>Mic</item>
+    </string-array>
+    <string-array name="connect_state">
+        <item>Ngoại tuyến</item>
+        <item>Đang kết nối</item>
+        <item>Đang kết nối</item>
+        <item>Mật khẩu sai</item>
+        <item>Trực tuyến</item>
+    </string-array>
+    <string-array name="device_timezone">
+        <item>GMT-11 Midway Islands;Samoa</item>
+        <item>GMT-10 Hawaii;</item>
+        <item>GMT-9 Alaska;</item>
+        <item>GMT-8 Pacific Time(USA or Canada);</item>
+        <item>GMT-7 Mountain Time(USA or Canada);</item>
+        <item>GMT-6 Central Time(USA or Canada);</item>
+        <item>GMT-5 Eastern Time(USA or Canada);</item>
+        <item>GMT-4 Atlantic Time(Canada);</item>
+        <item>GMT-3 Brazilia;Buenos Aires;</item>
+        <item>GMT-2 Mid-Atlantic;</item>
+        <item>GMT-1 Azores;Cape Verde;</item>
+        <item>GMT 0 London;Iceland;Lisbon;</item>
+        <item>GMT+1 Paris;Rome;Berlin;Madrid;</item>
+        <item>GMT+2 Israel;Athens;Cairo;Jerusalem;</item>
+        <item>GMT+3 Moscow;Nairobi;Riyadh;</item>
+        <item>GMT+4 Baku;Tbilisi;Abu Dhabi;Mascot;</item>
+        <item>GMT+5 New Delhi;Islamabad;Karachi;</item>
+        <item>GMT+6 Dakar;Alma Ata;Novosibirsk;Astana;</item>
+        <item>GMT+7 Bangkok;Hanoi;Jakarta;</item>
+        <item>GMT+8 Beijing;Singapore;Hongkong;Taipei;</item>
+        <item>GMT+9 Tokyo;Seoul;Yakutsk;</item>
+        <item>GMT+10 Guam;Melbourne;Sydney;</item>
+        <item>GMT+11 Magadan;New Caledonia;Solomon Islands;</item>
+        <item>GMT+12 Wellington;Auckland;fiji</item>    </string-array>
+    <string-array name="event_type">
+        <item>Tất cả</item>
+        <item>Tùy chỉnh</item>
+        <item>Video khi báo động</item>
+        <item>Trương trình</item>
+    </string-array>
+    <string-array name="motion_detection_sensitivity">
+        <item>Cao</item>
+        <item>Trung</item>
+        <item>Thấp</item>
+    </string-array>
+    <string-array name="net_work_style">
+        <item>Cáp</item>
+        <item>Wifi</item>
+    </string-array>
+    <string-array name="online_recording_type">
+        <item>Tất cả</item>
+        <item>Tùy chỉnh</item>
+        <item>Ghi khi báo động</item>
+        <item>Trương trình</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>None</item>
+        <item>All Days</item>
+    </string-array>
+    <string-array name="safety_connection">
+        <item>None</item>
+        <item>SSL</item>
+        <item>TLS</item>
+        <item>STARTTLS</item>
+    </string-array>
+    <string-array name="tab_name">
+        <item>Camera</item>
+        <item>Picture</item>
+        <item>Video</item>
+        <item>About</item>
+    </string-array>
+    <string-array name="tips_alarm_list_array">
+        <item>Phát hiện chuyển động</item>
+        <item>Báo động ngoài</item>
+        <item>Âm thanh</item>
+        <item>Báo động ngoài</item>
+    </string-array>
+    <string-array name="video_apenc">
+        <item>INVALID</item>
+        <item>NONE</item>
+        <item>WEP</item>
+        <item>WPA_TKIP</item>
+        <item>WPA_AES</item>
+        <item>WPA2_TKIP</item>
+        <item>WPA2_AES</item>
+    </string-array>
+    <string-array name="video_frequency">
+        <item>50MHZ</item>
+        <item>60MHZ</item>
+    </string-array>
+    <string name="about_fragment_SDK_version">SDK_version:</string>
+    <string name="about_fragment_copyright">CopyRight: Camhi.vn</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_camera">Thêm Camera</string>
+    <string name="admin">admin</string>
+    <string name="alarm_action_save_failed">Lưu báo động không thành công</string>
+    <string name="alarm_action_save_success"> Lưu báo động thành công </string>
+    <string name="alarm_push">Đẩy cảnh báo</string>
+    <string name="alarm_sd_card_video">Khi báo động ghi thẻ SD</string>
+    <string name="app_name">CamHi</string>
+    <string name="application">Ứng dụng</string>
+    <string name="btn_alarm_check">Kiểm tra</string>
+    <string name="btn_alarm_neglect">Bỏ Qua</string>
+    <string name="btn_delete_video_local">Xóa</string>
+    <string name="btn_downlinad_video_online">Tải về</string>
+    <string name="btn_download_local_video">Tải về</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_no">Không</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_play_video_local">Xem</string>
+    <string name="btn_play_video_online">Xem</string>
+    <string name="btn_preset_1">1</string>
+    <string name="btn_preset_2">2</string>
+    <string name="btn_preset_3">3</string>
+    <string name="btn_preset_4">4</string>
+    <string name="btn_preset_5">5</string>
+    <string name="btn_preset_6">6</string>
+    <string name="btn_preset_7">7</string>
+    <string name="btn_preset_8">8</string>
+    <string name="btn_preset_call">Gọi</string>
+    <string name="btn_preset_set">Đặt vị trí</string>
+    <string name="btn_ptz_focusin">Focus +</string>
+    <string name="btn_ptz_focusout">Focus -</string>
+    <string name="btn_ptz_zoomin">Zoom in</string>
+    <string name="btn_ptz_zoomout">Zoom out</string>
+    <string name="btn_search">Tìm</string>
+    <string name="btn_yes">Đồng ý</string>
+    <string name="camera">Camera</string>
+    <string name="camera_setup">Cài đặt Camera</string>
+    <string name="cancel">Hủy</string>
+    <string name="cancel_download">Hủy tải về</string>
+    <string name="click_offline_setting">Không thể cài đặt camera ngoại tuyến</string>
+    <string name="click_to_add_camera">Thêm Camera</string>
+    <string name="connect_to_WIFI_first">Hãy kết nối WIFI trước</string>
+    <string name="delete">Xóa</string>
+    <string name="device_info_device_name">Tên thiết bị</string>
+    <string name="device_info_dns">DNS</string>
+    <string name="device_info_gateway"> Gateway </string>
+    <string name="device_info_ip_address">Địa chỉ IP</string>
+    <string name="device_info_network_state">Mạng</string>
+    <string name="device_info_software_version">Phiên bản</string>
+    <string name="device_info_subnet_mask"> Subnet Mask </string>
+    <string name="device_info_user_connections">Số người xem</string>
+    <string name="device_setting">Cài đặt thiết bị</string>
+    <string name="email_alarm_and_send_pictures">Báo và gửi ảnh về Email</string>
+    <string name="equipment_setting_equipment_setting_timezone">Cài đặt Múi giờ</string>
+    <string name="equipment_setting_equipment_timezone">Múi giờ Camera</string>
+    <string name="equipment_setting_phone_timezone">Múi giờ Smartphone</string>
+    <string name="equipment_setting_setting_time">Cài thời gian</string>
+    <string name="equipment_setting_setting_timezone">Cài đặt múi giờ</string>
+    <string name="equipment_setting_synchronization_time">Đồng bộ thời gian điện thoại</string>
+    <string name="finish">Kết Thúc</string>
+    <string name="first_tips_code_rate_range"> Maximum rate range is  32–6144</string>
+    <string name="fluent">Thấp</string>
+    <string name="ftp_setting_passive_mode">Passive mode</string>
+    <string name="ftp_setting_password">Password</string>
+    <string name="ftp_setting_path">Path</string>
+    <string name="ftp_setting_port">Server Port</string>
+    <string name="ftp_setting_save_failed"> Cài đặt FTP không thành công </string>
+    <string name="ftp_setting_save_success">Cài đặt FTP thành công</string>
+    <string name="ftp_setting_server">Server Address</string>
+    <string name="ftp_setting_test_ftp"> Test FTP settings </string>
+    <string name="ftp_setting_username">User Name</string>
+    <string name="high_definition">Cao</string>
+    <string name="hint_key">Nhập mật khẩu</string>
+    <string name="hint_nike">IP camera</string>
+    <string name="hint_uid">Nhập hoặc quét UID</string>
+    <string name="hint_user">Nhập tên đăng nhập</string>
+    <string name="input_style">Đầu vào</string>
+    <string name="input_volume">Âm lượng Mic</string>
+    <string name="item_action_with_alarm">Liên kết báo động</string>
+    <string name="item_alarm_motion_detection">Phát hiện chuyển động</string>
+    <string name="item_audio_setup">Cài đặt âm thanh</string>
+    <string name="item_equipment_information">Thông tin thiết bị</string>
+    <string name="item_equipment_time_setting">Cài đặt thời gian</string>
+    <string name="item_ftp_settings">Cài đặt FTP</string>
+    <string name="item_mailbox_settings">Cài đặt Email</string>
+    <string name="item_modify_password">Đổi mật khẩu</string>
+    <string name="item_sd_card_set">Thiết lập thẻ nhớ</string>
+    <string name="item_system_settings">Cài đặt hệ thống</string>
+    <string name="item_timing_video">Thời gian ghi</string>
+    <string name="item_video_settings">Cài đặt Video</string>
+    <string name="item_wifi_settings">Cài đặt Wifi</string>
+    <string name="list_txt_uid">UID: </string>
+    <string name="live_view_light_auto">Tự động</string>
+    <string name="live_view_light_close">Tắt</string>
+    <string name="live_view_light_color">Màu sắc</string>
+    <string name="live_view_light_normal">Bình thường</string>
+    <string name="live_view_light_open">Mở</string>
+    <string name="mailbox_setting_check_failed"> Kiểm tra mailbox không thành công </string>
+    <string name="mailbox_setting_check_success">Kiểm tra mailbox thành công</string>
+    <string name="mailbox_setting_message">Message</string>
+    <string name="mailbox_setting_password">Password</string>
+    <string name="mailbox_setting_port">Server Port</string>
+    <string name="mailbox_setting_receive_address">Send To</string>
+    <string name="mailbox_setting_safety_connection">Encrypt Type</string>
+    <string name="mailbox_setting_save_failed"> Lưu cài đặt mailbox không thành công </string>
+    <string name="mailbox_setting_save_success">Lưu cài đặt mailbox thành công</string>
+    <string name="mailbox_setting_sending_address">Sender</string>
+    <string name="mailbox_setting_smtp_server">SMTP </string>
+    <string name="mailbox_setting_test">Test</string>
+    <string name="mailbox_setting_test_email">Test Email</string>
+    <string name="mailbox_setting_theme">Subject</string>
+    <string name="mailbox_setting_username">Username</string>
+    <string name="mailbox_setting_verification">Authentication</string>
+    <string name="name">Tên:</string>
+    <string name="new_psw">Mật khẩu mới</string>
+    <string name="off">Tắt</string>
+    <string name="old_psw">Mật khẩu cũ</string>
+    <string name="on">Bật</string>
+    <string name="one_key_setting">Quét Wifi thông minh</string>
+    <string name="one_key_setting_wifi">Kết nối Wifi</string>
+    <string name="open_motion_detection">Bật phát hiện chuyển động</string>
+    <string name="output_volume">Âm lượng loa</string>
+    <string name="psw">Mật khẩu:</string>
+    <string name="range_video_setting_frame_rate">fps(1-%d)</string>
+    <string name="refresh">Làm mới</string>
+    <string name="resolution_ratio">Độ phân giải</string>
+    <string name="return_btn">Quay lại</string>
+    <string name="save_pictures_to_ftp_server">Lưu hình ảnh qua FTP</string>
+    <string name="save_videos_to_ftp_server">Lưu Video qua FTP</string>
+    <string name="scan">Quét mã QR</string>
+    <string name="sd_card_setting_available_size">Còn trống：</string>
+    <string name="sd_card_setting_btm_tips">Định dạng sẽ xóa toàn bộ thẻ</string>
+    <string name="sd_card_setting_format_sd_card">Định dạng thẻ SD</string>
+    <string name="sd_card_setting_storage_size">Dung lượng：</string>
+    <string name="search_camera_result">Kết quả tìm kiếm</string>
+    <string name="search_dialog_from">Từ</string>
+    <string name="search_dialog_to">Đến</string>
+    <string name="search_in_lan">Tìm trong mạng LAN</string>
+    <string name="search_video_a_day">1 Ngày</string>
+    <string name="search_video_half_day">Nửa ngày</string>
+    <string name="search_video_hour">Tiếng</string>
+    <string name="search_video_self">Tùy chỉnh</string>
+    <string name="search_video_week">1 Tuần</string>
+    <string name="second_tips_code_rate_range"> Maximum rate range is  32–2048</string>
+    <string name="sends">Giây</string>
+    <string name="sensitivity">Độ nhạy</string>
+    <string name="setting">Cài Đặt</string>
+    <string name="ssid">SSID:</string>
+    <string name="sure">Xác nhận</string>
+    <string name="sure_new_psw">Xác nhận</string>
+    <string name="sure_to_exit">Bạn muốn thoát?</string>
+    <string name="system_setting_restart_camera">Khởi động lại</string>
+    <string name="system_setting_restore_factory_settings">Khôi phục cài đặt gốc</string>
+    <string name="system_setting_upgrade_online_settings">Nâng cấp</string>
+    <string name="take_picture_counts">Số ảnh</string>
+    <string name="text_scan">Cho mã QR vào khung máy ảnh</string>
+    <string name="tip_password_limit">
+Password length must not exceed Thirty-one!</string>
+    <string name="tip_perset_hint_input">Please input preset number (1-255)</string>
+    <string name="tip_perset_toast">Preset bits must not be greater than 255 or 0!</string>
+    <string name="tip_preset_fail">Preset bit setting failed</string>
+    <string name="tip_system_update">Đang cập nhật, không rút điện lúc này</string>
+    <string name="tip_system_update_new">Đã cập nhật phiên bản mới nhất</string>
+    <string name="tip_system_update_old">Phát hiện phiên bản mới, cập nhật ngay?</string>
+    <string name="tips_add_camera_exists">Thiết bị đã tồn tại</string>
+    <string name="tips_alarm_setting_failed">Cài đặt báo động thất bại</string>
+    <string name="tips_alarm_setting_success">Cài đặt báo động thành công</string>
+    <string name="tips_audio_setting">Cài đặt âm thành thành công</string>
+    <string name="tips_cancel_download_file">Tập tin đang được tải, bạn muốn hủy?</string>
+    <string name="tips_delete_video_local">Xác nhận xóa?</string>
+    <string name="tips_device_time_setting_reboot_camera">Đồng bộ thời gian sẽ khởi động lại, Tiếp tục?</string>
+    <string name="tips_device_time_setting_synchroned_time">Đồng bộ thành công</string>
+    <string name="tips_device_time_setting_timezone">Cài đặt thành công, sẽ khởi động lại</string>
+    <string name="tips_device_time_setting_timezone_new">Cài múi giờ thành công</string>
+    <string name="tips_downlaoding_video">Đang tải video từ xa</string>
+    <string name="tips_format_sd_card">Định dạng sẽ xóa toàn bộ dữ liệu thẻ, Tiếp tục?</string>
+    <string name="tips_format_sd_card_success">Định dạng thẻ SD thành công</string>
+    <string name="tips_frame_rate_range"> Maximum frame rate range is 1–%d</string>
+    <string name="tips_illegal_uid">UID bất hợp pháp</string>
+    <string name="tips_internet_no_cameras">Không tìm thấy camera trong mạng</string>
+    <string name="tips_limit_add_camera">Giới hạn 64 camera</string>
+    <string name="tips_loading">Đang Tải</string>
+    <string name="tips_long_press_preset_btn">Hãy ấn nút Reset 10 giây để khôi phục lại</string>
+    <string name="tips_modify_security_code_ok">Đổi thành công, Camera sẽ kết nối lại</string>
+    <string name="tips_msg_delete_camera">Bạn muốn xóa Camera?</string>
+    <string name="tips_msg_delete_snapshot">Bạn muốn xóa ảnh chụp?</string>
+    <string name="tips_msg_wifi_set_restart_app">Cài đặt Wifi cần khởi động lại ứng dụng, hãy thoát ứng dung</string>
+    <string name="tips_network_disconnect">Mất kết nối , hãy tải lại</string>
+    <string name="tips_new_passwords_do_not_match">Mật khẩu xác nhận không trùng khớp</string>
+    <string name="tips_no_permission">Hãy kiểm tra lại cài đặt và mở ứng dụng được cấp phép</string>
+    <string name="tips_no_picture">Không thấy ảnh chụp</string>
+    <string name="tips_no_sdcard">Chưa có thẻ nhớ</string>
+    <string name="tips_null_nike">Bạn phải nhập[Tên Camera]</string>
+    <string name="tips_null_uid">Bạn phải nhập[UID]</string>
+    <string name="tips_null_username">Bạn phải nhập[Tên đăng nhập]</string>
+    <string name="tips_old_password_is_wrong">Mật khẩu cũ không đúng</string>
+    <string name="tips_one_key_set_wifi">Đang cài đặt Wifi, hãy chờ</string>
+    <string name="tips_one_key_setting">Click vào nút ứng dụng trước, hãy bật to loa điện thoại và để gần camera</string>
+    <string name="tips_password_wrong_contains">Mật khẩu không chứa ~ $ \ \\ = + hoặc bỏ trống</string>
+    <string name="tips_preset_set_btn">Cài đặt mặc định thành công</string>
+    <string name="tips_reboot_camera">Bạn chắc chắn muốn khởi động lại?</string>
+    <string name="tips_recording_time_range">Thời gian ghi từ 15giây đến %d giây</string>
+    <string name="tips_remove_success">Xóa thành công</string>
+    <string name="tips_restore_factory_settings">Khôi phục sẽ mất toàn bộ cài đặt, tiếp tục?</string>
+    <string name="tips_snapshot_failed">Chụp ảnh thất bại</string>
+    <string name="tips_snapshot_success">Chụp ảnh thành công</string>
+    <string name="tips_stop_video">Kết thúc</string>
+    <string name="tips_summer_time">clock for daylight saving time</string>
+    <string name="tips_time_video">Cài đặt thành công</string>
+    <string name="tips_update_system_failed">Connection server failed</string>
+    <string name="tips_video_level_range">"&amp;gt;video coding level range is 1–6</string>
+    <string name="tips_video_setting">Cài đặt video thành công</string>
+    <string name="tips_warning">Cảnh báo</string>
+    <string name="tips_wifi_connect_failed">Connection failed! </string>
+    <string name="tips_wifi_connect_success">Connection success! </string>
+    <string name="tips_wifi_one_key_set">Bạn đã thấy camera kêu Bíp chưa?</string>
+    <string name="tips_wifi_setting">Cài đặt wifi thành công</string>
+    <string name="title_about_fragment">About</string>
+    <string name="title_action_with_alarm">Liên kết báo động</string>
+    <string name="title_alarm_list">Danh sách báo động</string>
+    <string name="title_alarm_motion_detection">Phát hiện chuyển động</string>
+    <string name="title_audio_setup">Cài đặt âm thanh</string>
+    <string name="title_camera_fragment">CamhiVN</string>
+    <string name="title_equipment_information">Thông tin thiết bị</string>
+    <string name="title_equipment_setting">Thời gian</string>
+    <string name="title_ftp_settings">Cài đặt FTP</string>
+    <string name="title_local_picture">Local Picture</string>
+    <string name="title_local_video">Video tại chỗ</string>
+    <string name="title_mailbox_settings">Cài đặt Email</string>
+    <string name="title_modify_password">Đổi mật khẩu</string>
+    <string name="title_online_video">Xem lại</string>
+    <string name="title_picture_fragment">Picture</string>
+    <string name="title_scan_qr_code">Đang quét mã QR</string>
+    <string name="title_sdcard_setting">Thông tin thẻ SD</string>
+    <string name="title_search_dialog">Tìm</string>
+    <string name="title_search_video">Video thẻ SD</string>
+    <string name="title_system_settings">Cài đặt hệ thống</string>
+    <string name="title_timing_video">Thời gian ghi</string>
+    <string name="title_user_settting">Cài đặt người dùng</string>
+    <string name="title_video_settings">Cài đặt Video</string>
+    <string name="title_wifi_setting">Cài đặt Wifi</string>
+    <string name="turn_on_video">Bật ghi hình</string>
+    <string name="txtNoResultFound">Không tìm thấy</string>
+    <string name="txtSearchEventDuration">Tìm kiếm từ:</string>
+    <string name="txt_live_flip">Đảo Chiều</string>
+    <string name="txt_live_mirror">Đảo bên</string>
+    <string name="txt_recording">Đang ghi...</string>
+    <string name="uid">UID:</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="use_setting_show_psw">Hiển thị</string>
+    <string name="user_name">Tên đăng nhập:</string>
+    <string name="video_file_times">Độ dài Video</string>
+    <string name="video_fragment_local_btn">Tại chỗ</string>
+    <string name="video_fragment_online_btn">Trực Tuyến</string>
+    <string name="video_setting_btm_tips">Giá trị nhỏ, chất lượng tốt hơn,cần băng thông rộng hơn</string>
+    <string name="video_setting_code_rate">Bit rate</string>
+    <string name="video_setting_first_stream">Dòng đầu</string>
+    <string name="video_setting_frame_rate">Frame rate</string>
+    <string name="video_setting_second_stream">Dòng hai</string>
+    <string name="video_setting_video_format">Video format</string>
+    <string name="video_setting_video_level">Image quality</string>
+    <string name="video_time">Thời gian</string>
+    <string name="wifi_setting_connect">Độ mạnh</string>
+    <string name="wifi_setting_connected">Kết nối</string>
+    <string name="wifi_setting_loading">Đang tải</string>
+    <string name="wifi_setting_manager_btn">Quản lý Wifi</string>
+    <string name="wifi_setting_not_connect">Không kết nối</string>
+    <string name="wifi_setting_safety">Enctype:</string>
+    <string name="wifi_setting_signal_intensity">Cường độ:</string>
+</resources>

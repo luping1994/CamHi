@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <com.thecamhi.widget.stickygridview.MyImageView
+        android:id="@+id/grid_item"
+        android:layout_width="fill_parent"
+        android:layout_height="75dip"
+        android:scaleType="fitXY" />
+
+    <CheckBox
+        android:id="@+id/grid_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_alignBottom="@+id/grid_item"
+        android:layout_alignRight="@+id/grid_item" />
+
+</RelativeLayout>

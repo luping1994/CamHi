@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_name">
+        <item>カメラ</item>
+        <item>写真</item>
+        <item>ビデオ</item>
+        <item>アバウト</item>
+    </string-array>
+    <string-array name="connect_state">
+        <item>切断</item>
+        <item>接続中</item>
+        <item>接続中</item>
+        <item>パスワードが間違っています</item>
+        <item>オンライン</item>
+    </string-array>
+    <string-array name="motion_detection_sensitivity">
+        <item>高</item>
+        <item>普通</item>
+        <item>低</item>
+    </string-array>
+    <string-array name="audio_input_style">
+        <item>ラインイン</item>
+        <item>マイク</item>
+    </string-array>
+    <string-array name="device_timezone">
+        <item>GMT-11ミッドウェイ諸島; サモア島</item>
+        <item>GMT-10ハワイ;</item>
+        <item>GMT-9アラスカ;</item>
+        <item>GMT-8太平洋標準時(米国またはカナダ);</item>
+        <item>GMT-7山岳時間(米国またはカナダ);</item>
+        <item>GMT-6中部標準時間(米国またはカナダ);</item>
+        <item>GMT-5東部時間(米国またはカナダ);</item>
+        <item>GMT-4大西洋標準時(カナダ);</item>
+        <item>GMT-3ブラジル; ブエノスアイレス;</item>
+        <item>GMT-2大西洋中部;</item>
+        <item>GMT-1アゾレス諸島; カーボベルデ諸島;</item>
+        <item>GMT 0ロンドン;アイスランド;リスボン;</item>
+        <item>GMT+1パリ;ローマ;ベルリン;マドリード;</item>
+        <item>GMT+2イスラエル;アテネ;カイロ;エルサレム;</item>
+        <item>GMT+3モスクワ;ナイロビ;リヤド;</item>
+        <item>GMT+4バクー;トビリシ;アブダビ;マスコット;</item>
+        <item>GMT+5ニューデリー;イスラマバード;カラチ;</item>
+        <item>GMT+6ダカール;アルマ・アタ;ノボシビルスク;アスタナ;</item>
+        <item>GMT+7バンコク;ハノイ;ジャカルタ;</item>
+        <item>GMT+8北京;シンガポール;香港;台北;</item>
+        <item>GMT+9東京;ソウル;ヤクーツク;</item>
+        <item>GMT+10グアム;メルボルン;シドニー;</item>
+        <item>GMT+11マガダン;ニューカレドニア;ソロモン諸島;</item>
+        <item>GMT+12ウェリントン;オークランド;フィジー</item>
+    </string-array>
+    <string-array name="net_work_style">
+        <item>有線</item>
+        <item>WIFI</item>
+    </string-array>
+    <string-array name="video_frequency">
+        <item>50HZ</item>
+        <item>60HZ</item>
+    </string-array>
+    <string-array name="video_apenc">
+        <item>INVALID</item>
+        <item>NONE</item>
+        <item>WEP</item>
+        <item>WPA_TKIP</item>
+        <item>WPA_AES</item>
+        <item>WPA2_TKIP</item>
+        <item>WPA2_AES</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>なし</item>
+        <item>全日</item>
+    </string-array>
+    <string-array name="safety_connection">
+        <item>None</item>
+        <item>SSL</item>
+        <item>TLS</item>
+        <item>STARTTLS</item>
+    </string-array>
+    <string-array name="online_recording_type">
+        <item>全ビデオファイル</item>
+        <item>手動録画</item>
+        <item>警報録画</item>
+        <item>スケジュール録画</item>
+    </string-array>
+    <string-array name="event_type">
+        <item>全ビデオファイル</item>
+        <item>手動録画</item>
+        <item>警報録画</item>
+        <item>スケジュール録画</item>
+    </string-array>
+    <string-array name="alarm_action_picture_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    
+    <string-array name="tips_alarm_list_array">
+        <item>動体検知警報</item>
+        <item>外置警報</item>
+        <item>警報ボイス</item>
+        <item>外置警報</item>
+    </string-array>
+    
+</resources>

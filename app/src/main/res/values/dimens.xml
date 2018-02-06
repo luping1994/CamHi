@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="live_view_layout_width">60dp</dimen>
+    <dimen name="live_view_layout_height">40dp</dimen>
+    <dimen name="px_1">1dip</dimen>
+    <dimen name="px_2">2dip</dimen>
+    <dimen name="px_3">3dip</dimen>
+    <dimen name="px_4">4dip</dimen>
+    <dimen name="px_5">5dip</dimen>
+    <dimen name="px_6">6dip</dimen>
+    <dimen name="px_7">7dip</dimen>
+    <dimen name="px_8">8dip</dimen>
+    <dimen name="px_9">9dip</dimen>
+    <dimen name="px_10">10dip</dimen>
+    <dimen name="px_11">11dip</dimen>
+    <dimen name="px_12">12dip</dimen>
+    <dimen name="px_13">13dip</dimen>
+    <dimen name="px_14">14dip</dimen>
+    <dimen name="px_15">15dip</dimen>
+    <dimen name="px_16">16dip</dimen>
+    <dimen name="px_17">17dip</dimen>
+    <dimen name="px_18">18dip</dimen>
+    <dimen name="px_19">19dip</dimen>
+    <dimen name="px_20">20dip</dimen>
+    <dimen name="px_21">21dip</dimen>
+    <dimen name="px_22">22dip</dimen>
+    <dimen name="px_23">23dip</dimen>
+    <dimen name="px_24">24dip</dimen>
+    <dimen name="px_25">25dip</dimen>
+    <dimen name="px_26">26dip</dimen>
+
+</resources>

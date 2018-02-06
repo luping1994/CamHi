@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item><shape>
+            <solid android:color="@color/switch_tab_bg" />
+
+            <stroke android:width="2dp" android:color="#fefefe" />
+
+            <corners android:radius="10dip" />
+        </shape></item>
+
+</selector>

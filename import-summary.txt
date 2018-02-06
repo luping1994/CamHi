@@ -1,0 +1,78 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* proguard-project.txt
+* 修改记录_CamHi_App.txt
+* 修改记录_CamHi_HiSDK.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\armeabi\libavcodec-56.so => app\src\main\jniLibs\armeabi\libavcodec-56.so
+* libs\armeabi\libavdevice-56.so => app\src\main\jniLibs\armeabi\libavdevice-56.so
+* libs\armeabi\libavfilter-5.so => app\src\main\jniLibs\armeabi\libavfilter-5.so
+* libs\armeabi\libavformat-56.so => app\src\main\jniLibs\armeabi\libavformat-56.so
+* libs\armeabi\libavutil-54.so => app\src\main\jniLibs\armeabi\libavutil-54.so
+* libs\armeabi\libEncMp4.so => app\src\main\jniLibs\armeabi\libEncMp4.so
+* libs\armeabi\libh264decoder.so => app\src\main\jniLibs\armeabi\libh264decoder.so
+* libs\armeabi\libHiChipAndroid.so => app\src\main\jniLibs\armeabi\libHiChipAndroid.so
+* libs\armeabi\libHiChipP2P.so => app\src\main\jniLibs\armeabi\libHiChipP2P.so
+* libs\armeabi\libHiPushLib.so => app\src\main\jniLibs\armeabi\libHiPushLib.so
+* libs\armeabi\libhisdkqos.so => app\src\main\jniLibs\armeabi\libhisdkqos.so
+* libs\armeabi\libsinvoice_no_sign.so => app\src\main\jniLibs\armeabi\libsinvoice_no_sign.so
+* libs\armeabi\libswresample-1.so => app\src\main\jniLibs\armeabi\libswresample-1.so
+* libs\armeabi\libswscale-3.so => app\src\main\jniLibs\armeabi\libswscale-3.so
+* libs\armeabi\libtpnsSecurity.so => app\src\main\jniLibs\armeabi\libtpnsSecurity.so
+* libs\armeabi\libxguardian.so => app\src\main\jniLibs\armeabi\libxguardian.so
+* libs\HiPhotoView.jar => app\libs\HiPhotoView.jar
+* libs\hisdk.jar => app\libs\hisdk.jar
+* libs\jg_filter_sdk_1.1.jar => app\libs\jg_filter_sdk_1.1.jar
+* libs\mid-core-sdk-3.7.2.jar => app\libs\mid-core-sdk-3.7.2.jar
+* libs\org.apache.http.legacy.jar => app\libs\org.apache.http.legacy.jar
+* libs\wup-1.0.0.E-SNAPSHOT.jar => app\libs\wup-1.0.0.E-SNAPSHOT.jar
+* libs\Xg_sdk_v3.0_20170301_1733.jar => app\libs\Xg_sdk_v3.0_20170301_1733.jar
+* libs\zxing.jar => app\libs\zxing.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* mm_title_back_focused.9.PNG => mm_title_back_focused.9.png
+* mm_title_back_normal.9.PNG => mm_title_back_normal.9.png
+* mm_title_back_pressed.9.PNG => mm_title_back_pressed.9.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

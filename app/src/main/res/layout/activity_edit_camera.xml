@@ -1,0 +1,199 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/edit_box_bg"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="70dip"
+                android:paddingTop="10dip"
+                android:text="@string/device_setting"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/space_line"
+                android:contentDescription="@null"
+                android:padding="10dp" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:contentDescription="@null"
+                    android:text="@string/name"
+                    />
+
+                <EditText
+                    android:id="@+id/edt_nikename"
+                    android:layout_width="0dip"
+                    android:layout_height="42dp"
+                    android:layout_weight="3"
+                    android:maxLength="31"
+                    android:hint="@string/hint_nike"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/space_line"
+                android:contentDescription="@null"
+                android:padding="10dp" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:contentDescription="@null"
+                    android:text="@string/user_name"
+                    />
+
+                <EditText
+                    android:id="@+id/edt_username"
+                    android:layout_width="0dip"
+                    android:layout_height="42dp"
+                    android:layout_weight="3"
+                    android:maxLength="31"
+                    android:hint="@string/hint_user"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/space_line"
+                android:contentDescription="@null"
+                android:padding="10dp" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:contentDescription="@null"
+                    android:src="@drawable/ic_camera_user"
+                    android:text="@string/uid" />
+
+                <EditText
+                    android:id="@+id/edt_uid"
+                    android:layout_width="0dp"
+                    android:layout_height="42dp"
+                    android:layout_weight="3"
+                    android:enabled="false"
+                    android:textColor="@android:color/black"
+                    android:hint="@string/hint_uid"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:maxLength="31"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/space_line"
+                android:contentDescription="@null"
+                android:padding="10dp" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:contentDescription="@null"
+                    android:src="@drawable/ic_camera_key"
+                    android:text="@string/psw" />
+
+                <EditText
+                    android:id="@+id/edt_password"
+                    android:layout_width="0dip"
+                    android:layout_height="42dp"
+                    android:layout_weight="3"
+                    android:maxLength="31"
+                    android:hint="@string/hint_key"
+                    android:singleLine="true"
+                    android:inputType="textPassword"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+
+            <!--
+                 <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/txt_delete_camera"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/font_normal" />
+
+                <ToggleButton
+                    android:id="@+id/togbtn_delete_camera"
+                    android:layout_width="95dp"
+                    android:layout_height="44dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/toggle_btn_bg"
+                    android:textOff="@null"
+                    android:textOn="@null" />
+            </RelativeLayout>
+            -->
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

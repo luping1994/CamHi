@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="@drawable/main_title_bg"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/btn_return"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="5dip"
+        android:background="@drawable/btn_back_main_title"
+        android:gravity="center"
+        android:text="@string/return_btn"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:paddingBottom="3dip"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/title_middle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="20dip"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_finish"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dip"
+        android:background="@drawable/btn_bg_opposite"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:paddingBottom="3dip"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/iv_refresh"
+        android:layout_width="70dip"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dip"
+        android:clickable="true"
+        android:textColor="@android:color/white"
+        android:visibility="gone" />
+
+</RelativeLayout>

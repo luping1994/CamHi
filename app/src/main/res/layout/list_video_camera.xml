@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp" >
+
+    <TextView
+        android:id="@+id/txt_video_camera_nike"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/txt_video_camera_uid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_video_camera_nike"
+        android:layout_below="@+id/txt_video_camera_nike"
+        android:textColor="@color/list_info_text"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/txt_video_camera_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_video_camera_uid"
+        android:layout_below="@+id/txt_video_camera_uid"
+        android:textColor="@color/list_info_text"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+        android:contentDescription="@null"
+        android:src="@drawable/arrow" />
+
+</RelativeLayout>

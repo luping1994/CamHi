@@ -1,0 +1,51 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="hi_rogress_horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progress_bar</item>
+        <!-- progress_horizontal -->
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:minHeight">20dip</item>
+        <item name="android:maxHeight">20dip</item>
+    </style>
+
+    <style name="alive_setting_textview_style">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawableRight">@drawable/arrow</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:paddingLeft">30dip</item>
+        <item name="android:paddingRight">@dimen/px_10</item>
+        <item name="android:paddingTop">@dimen/px_10</item>
+        <item name="android:paddingBottom">@dimen/px_10</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">@drawable/alive_setting_item_bg</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="spinner_style">
+        <item name="android:background">@color/title_middle</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

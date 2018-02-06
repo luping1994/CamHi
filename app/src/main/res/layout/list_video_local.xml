@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="8dp" >
+
+    <ImageView
+        android:id="@+id/delete_icon_local_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:paddingBottom="10dip"
+        android:paddingLeft="8dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:src="@drawable/ic_delete_camera"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_uid"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/font_normal"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txt_time"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_uid"
+            android:textColor="@color/font_title"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/txt_size"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txt_time"
+            android:layout_below="@+id/txt_time"
+            android:textColor="@color/font_normal"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

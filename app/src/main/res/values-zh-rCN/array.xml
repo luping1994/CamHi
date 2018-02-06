@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_name">
+        <item>摄像机</item>
+        <item>照片</item>
+        <item>录像</item>
+        <item>关于</item>
+    </string-array>
+    
+    
+    <string-array name="connect_state">
+        <item>未连接</item>
+        <item>连接中&#8230;</item>
+        <item>连接中&#8230;</item>
+        <item>密码错误</item>
+        <item>在线</item>
+    </string-array>
+    <string-array name="motion_detection_sensitivity">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+    </string-array>
+    
+    
+    <string-array name="audio_input_style">
+        <item>线性输入</item>
+        <item>麦克风输入</item>
+    </string-array>
+    
+    <string-array name="device_timezone">
+        <item>GMT-11 中途岛;萨摩亚群岛;</item>
+        <item>GMT-10 夏威夷;</item>
+        <item>GMT-9 阿拉斯加;</item>
+        <item>GMT-8 太平洋时间(美国和加拿大);</item>
+        <item>GMT-7 山地时间(美国和加拿大);</item>
+        <item>GMT-6 中部时间(美国和加拿大);</item>
+        <item>GMT-5 东部时间(美国和加拿大);波哥大;利马;</item>
+        <item>GMT-4 大西洋时间(加拿大);圣地亚哥;拉巴斯;</item>
+        <item>GMT-3 巴西利亚;布宜诺斯艾利斯</item>
+        <item>GMT-2 中大西洋;</item>
+        <item>GMT-1 亚速尔群岛;佛得角群岛;</item>
+        <item>GMT 0 格林威治标准时间：伦敦;里斯本;卡萨布兰卡;</item>
+        <item>GMT+1 巴黎;柏林;罗马;马德里;</item>
+        <item>GMT+2 雅典;耶路撒冷;开罗;赫尔辛基;</item>
+        <item>GMT+3 莫斯科;内罗比;利雅得</item>
+        <item>GMT+4 巴库;第比利斯;阿布扎比;马斯喀特;</item>
+        <item>GMT+5 新德里;伊斯兰堡;卡拉奇;</item>
+        <item>GMT+6 达喀尔;阿拉木图;新西伯利亚;阿斯塔纳;</item>
+        <item>GMT+7 曼谷;河内;雅加达;</item>
+        <item>GMT+8 北京;新加坡;香港;台北;</item>
+        <item>GMT+9 首尔;雅库茨克;东京;</item>
+        <item>GMT+10 关岛;墨尔本;悉尼;</item>
+        <item>GMT+11 所罗门群岛;新喀里多尼亚;马加丹</item>
+        <item>GMT+12 惠灵顿;斐济;奥克兰</item>
+    </string-array>
+    <string-array name="net_work_style">
+        <item>有线</item>
+        <item>无线</item>
+    </string-array>
+    <string-array name="video_frequency">
+        <item>50赫兹</item>
+        <item>60赫兹</item>
+    </string-array>
+    <string-array name="video_apenc">
+        <item>INVALID</item>
+        <item>NONE</item>
+        <item>WEP</item>
+        <item>WPA_TKIP</item>
+        <item>WPA_AES</item>
+        <item>WPA2_TKIP</item>
+        <item>WPA2_AES</item>
+    </string-array>
+    <string-array name="safety_connection">
+        <item>None</item>
+        <item>SSL</item>
+        <item>TLS</item>
+        <item>STARTTLS</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>无</item>
+        <item>全天</item>
+    </string-array>
+    <string-array name="online_recording_type">
+        <item>所有录像</item>
+        <item>手动录像</item>
+        <item>报警录像</item>
+        <item>计划录像</item>
+    </string-array>
+    <string-array name="event_type">
+        <item>所有录像</item>
+        <item>手动录像</item>
+        <item>报警录像</item>
+        <item>计划录像</item>
+    </string-array>
+    <string-array name="alarm_action_picture_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    
+     <string-array name="tips_alarm_list_array">
+        <item>移动侦测</item>
+        <item>外置报警</item>
+        <item>声音报警</item>
+        <item>外置报警</item>
+    </string-array>
+
+
+</resources>

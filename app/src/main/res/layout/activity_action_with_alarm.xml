@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/alarm_push" />
+
+        <ToggleButton
+            android:id="@+id/alarm_push_push_tgbtn"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textOff="@string/off"
+            android:textOn="@string/on" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/alarm_sd_card_video" />
+
+        <ToggleButton
+            android:id="@+id/alarm_push_sd_video_tgbtn"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textOff="@string/off"
+            android:textOn="@string/on" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/email_alarm_and_send_pictures" />
+
+        <ToggleButton
+            android:id="@+id/alarm_push_email_alarm_tgbtn"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textOff="@string/off"
+            android:textOn="@string/on" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <RelativeLayout
+            android:id="@+id/save_picture_to_ftp_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/save_pictures_to_ftp_server" />
+
+            <ToggleButton
+                android:id="@+id/alarm_push_save_picture_tgbtn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:textOff="@string/off"
+                android:textOn="@string/on" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/save_video_to_ftp_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip" >
+
+            <TextView
+                android:id="@+id/save_video_ftp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/save_videos_to_ftp_server" />
+
+            <ToggleButton
+                android:id="@+id/alarm_push_video_tgbtn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:textOff="@string/off"
+                android:textOn="@string/on" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/action_alarm_picture_num_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/take_picture_counts" />
+
+        <Spinner
+            android:id="@+id/alarm_push_pictures_num_spn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:inputType="number" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/alarm_push_application_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:text="@string/application" />
+
+</LinearLayout>

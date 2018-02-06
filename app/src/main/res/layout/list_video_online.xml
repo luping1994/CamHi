@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    
+    android:baselineAligned="false"
+    android:padding="8dp" >
+
+    <TextView
+        android:id="@+id/txt_time"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/font_title"
+        android:textSize="16sp" />
+
+    <!--
+         <TextView
+        android:id="@+id/txt_uid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/font_normal"
+        android:text="11111111111"
+        android:textSize="12sp" />
+    -->
+
+    <TextView
+        android:id="@+id/txt_event"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_time"
+        android:layout_below="@+id/txt_time"
+        android:textColor="@color/font_normal"
+        android:textSize="12sp" />
+
+  
+
+</RelativeLayout>

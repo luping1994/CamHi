@@ -1,0 +1,316 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/live_view_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:clickable="true" >
+
+    <com.thecamhi.base.MyLiveViewGLMonitor
+        android:id="@+id/monitor_live_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/img_shade"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@color/edit_box_bg"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+
+        <ProgressBar
+            android:id="@+id/prs_loading"
+            style="@style/hi_rogress_horizontal"
+            android:layout_width="218dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/live_view_layout_sides"
+            android:baselineAligned="false"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_mirror_flip"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_mirror" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_zoom_focus"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_zoom" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_preset"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_preset" />
+            </LinearLayout>
+            
+              <LinearLayout
+                  android:id="@+id/btn_live_light_layout"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_light"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/btn_light" />
+            </LinearLayout>
+            
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_exit"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_exit" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lay_live_tools_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/live_view_layout_sides"
+            android:baselineAligned="false"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_listen"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_speaker" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_snapshot"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_snapshot" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/btn_live_record"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_recording" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/resolution_ratio"
+                    android:layout_width="@dimen/live_view_layout_width"
+                    android:layout_height="@dimen/live_view_layout_height"
+                    android:background="@drawable/btn_live_box_bg"
+                    android:clickable="true"
+                    android:src="@drawable/camhi_live_normal_quality" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--
+    <RadioGroup
+        android:id="@+id/radio_quality"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_quality_hd"
+            android:layout_width="48dp"
+            android:layout_height="42dp"
+            android:background="@drawable/radio_bg"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="@string/radio_quality_hd"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/radio_quality_sd"
+            android:layout_width="48dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/radio_bg"
+            android:button="@null"
+            android:gravity="center"
+            android:text="@string/radio_quality_sd"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/btn_live_temp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dip"
+            android:gravity="center"
+            android:textColor="#5cb8b2"
+            android:textSize="18sp" />
+    </RadioGroup>
+        -->
+        <!--
+    <Button
+        android:id="@+id/btn_ptz_up"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/monitor_live_view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_ptz_up" />
+
+    <Button
+        android:id="@+id/btn_ptz_left"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/monitor_live_view"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/btn_ptz_left" />
+
+    <Button
+        android:id="@+id/btn_ptz_right"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        android:layout_alignRight="@+id/monitor_live_view"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:background="@drawable/btn_ptz_right" />
+
+    <Button
+        android:id="@+id/btn_ptz_down"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@+id/monitor_live_view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_ptz_down" />
+        -->
+
+        <Button
+            android:id="@+id/btn_microphone"
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:layout_above="@+id/lay_live_tools_bottom"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="60dp"
+            android:background="@drawable/btn_microphone_bg"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txt_recording"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/linearLayout1"
+            android:layout_marginRight="10dp"
+            android:text="@string/txt_recording"
+            android:textColor="#FF0000"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</FrameLayout>

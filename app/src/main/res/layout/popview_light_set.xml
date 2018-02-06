@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/radio_bg_normal"
+    android:orientation="vertical"
+    android:paddingRight="10dip" >
+
+    <RadioGroup
+        android:id="@+id/live_view_ext_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/live_view_ext_btn_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/live_view_light_normal" />
+
+        <RadioButton
+            android:id="@+id/live_view_ext_btn_color"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dip"
+            android:text="@string/live_view_light_color" />
+
+        <RadioButton
+            android:id="@+id/live_view_ext_btn_auto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dip"
+            android:text="@string/live_view_light_auto" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/live_view_nor_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/live_view_nor_btn_open"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/live_view_light_open" />
+
+        <RadioButton
+            android:id="@+id/live_view_nor_btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/live_view_light_close" />
+    </RadioGroup>
+
+</LinearLayout>

@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_listen.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_listen.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_btn_normal.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_rotation_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_rotation_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_camera_round_ll.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\add_camera_round_ll.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_tab_item_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\main_tab_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_snapshot_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_snapshot_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_video_camera.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\list_video_camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_alert.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_alert.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_bg_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\tv_bg_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_setting_press.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_setting_press.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_micphone.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_micphone.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_quality.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_quality.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_select_micphone.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_micphone.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_mirror_flip.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_mirror_flip.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_uid.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_uid.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_live_view_landscape.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_live_view_landscape.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_zoom.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_zoom.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_local_picture.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_local_picture.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_rotation.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_rotation.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_normal.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_btn_pressed.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_exit.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_exit.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_alarm_bottom.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\bg_alarm_bottom.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alarm_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_alarm_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_video_online.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\list_video_online.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_btn_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\toggle_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sd_card_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_sd_card_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ftp_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_ftp_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photoview_landscape.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_photoview_landscape.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_alert_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_alert_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_bg_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_pressed.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_key.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_key.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_preference_first_normal.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_record_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_record_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_baby_two.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\img_baby_two.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_led_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_led_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_playback_play_btn_stop.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\playback_play_btn_stop.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_light_set.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_light_set.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_preference_pressed.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_online.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_video_online.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_main_item.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\camera_main_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_snapshot.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_snapshot.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wifi_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_wifi_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_reflash_blue.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_reflash_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_btn_bg_nor.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\radio_btn_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_loading_rate_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\round_loading_rate_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_search_event.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_search_event.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_zoom_focus.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_zoom_focus.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_one_key_noice.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\wifi_one_key_noice.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_scan_result.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\list_scan_result.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photoview_portrait.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_photoview_portrait.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_user.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_user.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_record.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_record.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_password.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_setting_password.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alarm.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_showing_progressbar.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\dialog_showing_progressbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_tabbar_normal_picture.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_picture.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_camera_view.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\add_camera_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\tv_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_setting_item_bg_nor.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_setting_item_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_video_local.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\list_video_local.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_setting_wifi.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\list_setting_wifi.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_equipment_time_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_equipment_time_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_music_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_music_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_bg_nor.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\radio_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alarm_log_bg.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\alarm_log_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_alarm_normal.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_alarm_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_title_bg.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\main_title_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_bg_sel.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\radio_bg_sel.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_camera.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_search_camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_camera.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_setting_item_bg_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_setting_item_bg_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_playback_play_btn_play.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\playback_play_btn_play.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_music.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_music.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_tabbar_normal_camera.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_box_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\layout_box_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_tabbar_normal_video.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_video.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_opposite.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_bg_opposite.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_microphone.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_microphone.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_snapshot_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_snapshot_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_preference_normal.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_edit_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_edit_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mailbox_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_mailbox_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_wifi_set_one_key.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\wifi_set_one_key.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audio_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_audio_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_preset.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_preset.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_camera_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\add_camera_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_playback_online_landscape.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_playback_online_landscape.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tabhost_switch_image.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\fragment_tabhost_switch_image.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_right.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_camera.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_add_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_btn_focused.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_snapshot.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_snapshot.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mmfooter_bg.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mmfooter_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_gray.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_bg_gray.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_perset.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\perset.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_alarm.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_alarm.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_preset.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_preset.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_mirror.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_mirror.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_setting_layout_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_setting_layout_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_list_search_result.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\dialog_list_search_result.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mmfooter_bg_white.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mmfooter_bg_white.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_view_in_all_main_view.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\title_view_in_all_main_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_preference_first_pressed.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_record_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_record_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_setting_btn.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_btn_style.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\toggle_btn_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_led_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_led_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_music_press.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_music_press.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_alarm_pressed.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_alarm_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_blue_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_action_with_alarm.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_action_with_alarm.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_video_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_noice_ring.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\noice_ring.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_preference_last_pressed.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_bg_nor.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\tv_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_right.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_header.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\grid_header.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_alarm_event.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\list_alarm_event.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_timing_video.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_timing_video.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_nike.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_nike.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_alive_setting_activity.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\alive_setting_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_setting_item_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_setting_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_rotation_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_rotation_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_snapshot_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_snapshot_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_search_from_lan.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\add_search_from_lan.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_alert_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_alert_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_reflash_gray.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_reflash_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_btn_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\radio_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_nor.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_preset_key.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popup_preset_key.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_btn_bg_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\radio_btn_bg_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alarm_event.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_alarm_event.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nor_background_ll.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\nor_background_ll.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_baby_one.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\img_baby_one.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_camera.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_edit_camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_tabbar_normal_about.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_about.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_preset.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_preset.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_select_recording.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_recording.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gray_btn.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\background_gray_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\radio_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_video_online.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_video_online.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_speaker.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_speaker.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode_capture.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_qrcode_capture.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_title_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_title_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_camera_fragment_main_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\layout_camera_fragment_main_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_video_local.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_video_local.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_patch.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\progress_patch.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_microphone_off1.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_off1.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_listen_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_listen_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gray_btn2.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\background_gray_btn2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\round_corner_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_event_result.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\search_event_result.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_preference_last_normal.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back_main_title.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_back_main_title.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_switch_off.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\switch_off.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_video.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_camera_fragment_add_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\layout_camera_fragment_add_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_wireless_setting.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\add_wireless_setting.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_setting_top_item_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_setting_top_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_sun_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_sun_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_system_setting.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_system_setting.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_resolution_ratio.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_resolution_ratio.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview_loading_video.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\popview_loading_video.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_sdcard_video.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_search_sdcard_video.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_local.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_video_local.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_click_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\layout_click_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playback_play_btn_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\playback_play_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_focused.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_sun.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_sun.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_blue_btn.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\background_blue_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_picture.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\fragment_picture.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_left.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_live_box_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_live_box_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_setting_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_setting_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_microphone_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_microphone_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_normal_recording.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_recording.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_noice_none.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\noice_none.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_switch_on.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\switch_on.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_left.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_result.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\no_result.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_sun_pre.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_sun_pre.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_live_listen_nor.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_live_listen_nor.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_listview.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\search_listview.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_btn_bg_img.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\popup_btn_bg_img.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_click_btn_pre.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\click_btn_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_scan_qr_code.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\add_scan_qr_code.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alive_setting_bottom_item_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\alive_setting_bottom_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_info.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\activity_device_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_events.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\layout\\loading_events.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_popup_num_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\popup_num_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_click_btn_bg.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\click_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg_reflash.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\btn_bg_reflash.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_click_btn_nor.xml.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable\\click_btn_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camhi_live_select_speaker.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_speaker.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\CamHi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_light.png.flat",
+        "source": "E:\\AndroidProject\\CamHi\\app\\src\\main\\res\\drawable-hdpi\\btn_light.png"
+    }
+]

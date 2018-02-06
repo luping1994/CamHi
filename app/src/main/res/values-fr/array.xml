@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_name">
+        <item>camera</item>
+        <item>image</item>
+        <item>vidéo</item>
+        <item>sur</item>
+    </string-array>
+    <string-array name="connect_state">
+        <item>Disconnected</item>
+        <item>Connecting</item>
+        <item>Connecting</item>
+        <item>Wrong Password</item>
+        <item>Online</item>
+    </string-array>
+    <string-array name="motion_detection_sensitivity">
+         <item>Haute</item>
+        <item>Medium</item>
+        <item>Basse</item>
+       
+    </string-array>
+    <string-array name="audio_input_style">
+        <item>Entrée</item>
+        <item>Micro</item>
+    </string-array>
+    <string-array name="device_timezone">
+     
+        <item>GMT-11 Midway Islands;Samoa</item>
+        <item>GMT-10 Hawaii;</item>
+        <item>GMT-9 Alaska;</item>
+        <item>GMT-8 Pacific Time(USA or Canada);</item>
+        <item>GMT-7 Mountain Time(USA or Canada);</item>
+        <item>GMT-6 Central Time(USA or Canada);</item>
+        <item>GMT-5 Eastern Time(USA or Canada);</item>
+        <item>GMT-4 Atlantic Time(Canada);</item>
+        <item>GMT-3 Brazilia;Buenos Aires;</item>
+        <item>GMT-2 Mid-Atlantic;</item>
+        <item>GMT-1 Azores;Cape Verde;</item>
+        <item>GMT 0 London;Iceland;Lisbon;</item>
+        <item>GMT+1 Paris;Rome;Berlin;Madrid;</item>
+        <item>GMT+2 Israel;Athens;Cairo;Jerusalem;</item>
+        <item>GMT+3 Moscow;Nairobi;Riyadh;</item>
+        <item>GMT+4 Baku;Tbilisi;Abu Dhabi;Mascot;</item>
+        <item>GMT+5 New Delhi;Islamabad;Karachi;</item>
+        <item>GMT+6 Dakar;Alma Ata;Novosibirsk;Astana;</item>
+        <item>GMT+7 Bangkok;Hanoi;Jakarta;</item>
+        <item>GMT+8 Beijing;Singapore;Hongkong;Taipei;</item>
+        <item>GMT+9 Tokyo;Seoul;Yakutsk;</item>
+        <item>GMT+10 Guam;Melbourne;Sydney;</item>
+        <item>GMT+11 Magadan;New Caledonia;Solomon Islands;</item>
+        <item>GMT+12 Wellington;Auckland;fiji</item>
+
+    </string-array>
+    <string-array name="net_work_style">
+        <item>CABLE</item>
+        <item>WIFI</item>
+    </string-array>
+    <string-array name="video_frequency">
+        <item>50HZ</item>
+        <item>60HZ</item>
+    </string-array>
+    <string-array name="video_apenc">
+        <item>INVALID</item>
+        <item>NONE</item>
+        <item>WEP</item>
+        <item>WPA_TKIP</item>
+        <item>WPA_AES</item>
+        <item>WPA2_TKIP</item>
+        <item>WPA2_AES</item>
+    </string-array>
+    <string-array name="recording_time">
+         <item>Aucun</item>
+        <item>Toute la journée</item>
+    </string-array>
+    <string-array name="safety_connection">
+        <item>None</item>
+        <item>SSL</item>
+        <item>TLS</item>
+        <item>STARTTLS</item>
+    </string-array>
+    <string-array name="online_recording_type">
+            <item>Tous les enregistrements</item>
+        <item>Enreg. manuel</item>
+        <item>L\'enregistrement d\'alarme</item>
+        <item>Enregistr. du plan</item>
+
+    </string-array>
+    <string-array name="event_type">
+               <item>Tous les enregistrements</item>
+        <item>Enreg. manuel</item>
+        <item>L\'enregistrement d\'alarme</item>
+        <item>Enregistr. du plan</item>
+    </string-array>
+    <string-array name="alarm_action_picture_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    
+    <string-array name="tips_alarm_list_array">
+        <item>Detection Alarm</item>
+        <item>External Alarm</item>
+        <item>Voice Alarm</item>
+        <item>External Alarm</item>
+    </string-array>
+
+    
+</resources>

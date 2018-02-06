@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.hichip.widget.stickygridheaders.StickyGridHeadersGridView
+        android:id="@+id/asset_grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="2dp"
+        android:clipToPadding="false"
+        android:columnWidth="90dip"
+        android:horizontalSpacing="3dip"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="3dip" />
+
+</LinearLayout>

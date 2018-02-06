@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:drawable="@drawable/round_corner_pre" android:state_enabled="true" android:state_pressed="true"/> <!-- pressed -->
+    <item android:drawable="@drawable/round_corner_pre" android:state_enabled="true" android:state_selected="true"/> <!-- pressed -->
+    <item android:drawable="@drawable/round_corner_pre" android:state_enabled="true" android:state_focused="true"/> <!-- focused -->
+    <item android:drawable="@drawable/round_corner" android:state_enabled="true"/> <!-- normal -->
+    
+</selector>

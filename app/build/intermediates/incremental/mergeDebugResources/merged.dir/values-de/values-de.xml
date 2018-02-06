@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_action_picture_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="audio_input_style">
+       <item>Line-in</item>
+        <item>Mikrofon</item>
+    </string-array>
+    <string-array name="connect_state">
+        <item>Disconnected</item>
+        <item>Connecting</item>
+        <item>Connecting</item>
+        <item>Wrong Password</item>
+        <item>Online</item>
+    </string-array>
+    <string-array name="device_timezone">
+        
+        <item>GMT-11 Midway Islands;Samoa</item>
+        <item>GMT-10 Hawaii;</item>
+        <item>GMT-9 Alaska;</item>
+        <item>GMT-8 Pacific Time(USA or Canada);</item>
+        <item>GMT-7 Mountain Time(USA or Canada);</item>
+        <item>GMT-6 Central Time(USA or Canada);</item>
+        <item>GMT-5 Eastern Time(USA or Canada);</item>
+        <item>GMT-4 Atlantic Time(Canada);</item>
+        <item>GMT-3 Brasilia;Buenos Aires;</item>
+        <item>GMT-2 Mittlerer-Atlantik;</item>
+        <item>GMT-1 Azores;Cape Verde;</item>
+        <item>GMT 0 London;Iceland;Lissabon;</item>
+        <item>GMT+1 Paris;Rom;Berlin;Madrid;</item>
+        <item>GMT+2 Israel;Athens;Cairo;Jerusalem;</item>
+        <item>GMT+3 Moskau;Nairobi;Riyadh;</item>
+        <item>GMT+4 Baku;Tbilisi;Abu Dhabi;Muscat;</item>
+        <item>GMT+5 New Delhi;Islamabad;Karachi;</item>
+        <item>GMT+6 Dakar;Alma Ata;Novosibirsk;Astana;</item>
+        <item>GMT+7 Bangkok;Hanoi;Jakarta;</item>
+        <item>GMT+8 Beijing;Singapore;Hongkong;Taipei;</item>
+        <item>GMT+9 Tokyo;Seoul;Yakutsk;</item>
+        <item>GMT+10 Guam;Melbourne;Sydney;</item>
+        <item>GMT+11 Magadan;New Caledonia;SolomonIs.;</item>
+        <item>GMT+12 Wellington;Auckland;fiji</item>
+
+
+    </string-array>
+    <string-array name="event_type">
+        <item>Alle Aufnahmen</item>
+        <item>Manuelle Aufnahme</item>
+        <item>Die Alarmaufzeichnung</item>
+        <item>Aufnahme planen</item>
+    </string-array>
+    <string-array name="motion_detection_sensitivity">
+        <item>Hoch</item>
+        <item>Mittel</item>
+        <item>Gering</item>
+    </string-array>
+    <string-array name="net_work_style">
+        <item>CABLE</item>
+        <item>WIFI</item>
+    </string-array>
+    <string-array name="online_recording_type">
+           <item>Alle Aufnahmen</item>
+        <item>Manuelle Aufnahme</item>
+        <item>Die Alarmaufzeichnung</item>
+        <item>Aufnahme planen</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>Keine/r</item>
+        <item>Gesamter Tag</item>
+    </string-array>
+    <string-array name="safety_connection">
+        <item>None</item>
+        <item>SSL</item>
+        <item>TLS</item>
+        <item>STARTTLS</item>
+    </string-array>
+    <string-array name="tab_name">
+        <item>kamera</item>
+        <item>bilder</item>
+        <item>video</item>
+        <item>Über</item>
+    </string-array>
+    <string-array name="tips_alarm_list_array">
+        <item>Detection Alarm</item>
+        <item>External Alarm</item>
+        <item>Voice Alarm</item>
+        <item>External Alarm</item>
+    </string-array>
+    <string-array name="video_apenc">
+        <item>INVALID</item>
+        <item>NONE</item>
+        <item>WEP</item>
+        <item>WPA_TKIP</item>
+        <item>WPA_AES</item>
+        <item>WPA2_TKIP</item>
+        <item>WPA2_AES</item>
+    </string-array>
+    <string-array name="video_frequency">
+        <item>50HZ</item>
+        <item>60HZ</item>
+    </string-array>
+    <string name="about_fragment_SDK_version">SDK_version:</string>
+    <string name="about_fragment_copyright">Copyright 2016 All rights reserved.</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="add_camera">Kamera hinzufügen</string>
+    <string name="admin">admin</string>
+    <string name="alarm_action_save_failed">Alarm settings saved failed</string>
+    <string name="alarm_action_save_success">Alarm Einstellung Speichern</string>
+    <string name="alarm_push">Alarm Notifications</string>
+    <string name="alarm_sd_card_video">Alarm SD-Aufnahme</string>
+    <string name="app_name">CamHi</string>
+    <string name="application">Anwenden</string>
+    <string name="btn_alarm_check">Check</string>
+    <string name="btn_alarm_neglect">Ignorieren</string>
+    <string name="btn_delete_video_local">Delete</string>
+    <string name="btn_downlinad_video_online">Downloaded to phone</string>
+    <string name="btn_download_local_video">Download</string>
+    <string name="btn_edit">edit</string>
+    <string name="btn_no">Nein</string>
+    <string name="btn_ok">Ja</string>
+    <string name="btn_play_video_local">Play</string>
+    <string name="btn_play_video_online">Play</string>
+    <string name="btn_preset_1">1</string>
+    <string name="btn_preset_2">2</string>
+    <string name="btn_preset_3">3</string>
+    <string name="btn_preset_4">4</string>
+    <string name="btn_preset_5">5</string>
+    <string name="btn_preset_6">6</string>
+    <string name="btn_preset_7">7</string>
+    <string name="btn_preset_8">8</string>
+    <string name="btn_preset_call">Anruf</string>
+    <string name="btn_preset_set">Set</string>
+    <string name="btn_ptz_focusin">konzentrieren +</string>
+    <string name="btn_ptz_focusout">konzentrieren -</string>
+    <string name="btn_ptz_zoomin">Hineinzoomen</string>
+    <string name="btn_ptz_zoomout">Herauszoomen</string>
+    <string name="btn_search">Suchen</string>
+    <string name="btn_yes">Ja</string>
+    <string name="camera">Camera</string>
+    <string name="camera_setup">Kamera-Einstellung</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_download">Cancel download</string>
+    <string name="click_offline_setting">Cannot setup offline camera</string>
+    <string name="click_to_add_camera">Kamera hinzufügen drücken</string>
+    <string name="connect_to_WIFI_first">Bitte zuerst eine Verbindung über WLAN herstellen</string>
+    <string name="delete">delete</string>
+    <string name="device_info_device_name">Gerät ID:</string>
+    <string name="device_info_dns">DNS</string>
+    <string name="device_info_gateway">Gateway:</string>
+    <string name="device_info_ip_address">IP-Adresse:</string>
+    <string name="device_info_network_state">Netzwerk:</string>
+    <string name="device_info_software_version">&amp;gt;Softwareversion:</string>
+    <string name="device_info_subnet_mask">Subnetzmaske:</string>
+    <string name="device_info_user_connections">Aktuelle Benutzer</string>
+    <string name="device_setting">Geräteeinstellung</string>
+    <string name="email_alarm_and_send_pictures">E-Mail-Alarm und mit Bild senden</string>
+    <string name="equipment_setting_equipment_setting_timezone">Zeitzoneneinstellung für das Gerät</string>
+    <string name="equipment_setting_equipment_timezone">Zeitzoneneinstellung für das Gerät</string>
+    <string name="equipment_setting_phone_timezone">Zeitzone Telefon</string>
+    <string name="equipment_setting_setting_time">Gerätezeiteinstellung</string>
+    <string name="equipment_setting_setting_timezone">Zeitzone einstellen</string>
+    <string name="equipment_setting_synchronization_time">Mit Gerätezeit synchronisieren</string>
+    <string name="finish">Fertig</string>
+    <string name="first_tips_code_rate_range">Bitratenbereich ist 32–6144</string>
+    <string name="fluent">Low</string>
+    <string name="ftp_setting_passive_mode">Passiv-Modus</string>
+    <string name="ftp_setting_password">Passwort</string>
+    <string name="ftp_setting_path">Pfad</string>
+    <string name="ftp_setting_port">Server Port</string>
+    <string name="ftp_setting_save_failed">FTP settings saved failed</string>
+    <string name="ftp_setting_save_success">E-Mail-Einstellung übernehmen erfolgreich!</string>
+    <string name="ftp_setting_server">Serveradresse</string>
+    <string name="ftp_setting_test_ftp">FTP-Einstellungen testen</string>
+    <string name="ftp_setting_username">Benutzername</string>
+    <string name="high_definition">Max</string>
+    <string name="hint_key">[Sicherheitscode] wurde nicht eingegeben.</string>
+    <string name="hint_nike"> [Kamera Name] muss eingegeben werden.</string>
+    <string name="hint_uid">[UID] wurde nicht eingegeben.</string>
+    <string name="hint_user">[Benutzername] nicht eingegeben.</string>
+    <string name="input_style">Eingabetyp</string>
+    <string name="input_volume">Eingangs-Lautstärke</string>
+    <string name="item_action_with_alarm">Vorgang bei Alarm</string>
+    <string name="item_alarm_motion_detection">Alarmeinstellungen</string>
+    <string name="item_audio_setup">Audio-Einstellung</string>
+    <string name="item_equipment_information">Gerätedaten</string>
+    <string name="item_equipment_time_setting">Gerätezeiteinstellung</string>
+    <string name="item_ftp_settings">FTP-Einstellung</string>
+    <string name="item_mailbox_settings">E-Mail-Einstellung</string>
+    <string name="item_modify_password">Sicherheitscode ändern</string>
+    <string name="item_sd_card_set">SD-Karteneinstellung</string>
+    <string name="item_system_settings">Systemeinstellung</string>
+    <string name="item_timing_video">Zeitgesteuerte Aufnahme</string>
+    <string name="item_video_settings">Video-Einstellung</string>
+    <string name="item_wifi_settings">WLAN-Einstellung</string>
+    <string name="list_txt_uid">UID: </string>
+    <string name="live_view_light_auto">Auto</string>
+    <string name="live_view_light_close">Close</string>
+    <string name="live_view_light_color">Color</string>
+    <string name="live_view_light_normal">Normal</string>
+    <string name="live_view_light_open">Open</string>
+    <string name="mailbox_setting_check_failed">Test......fehlgeschlagen.</string>
+    <string name="mailbox_setting_check_success">Test......erfolgreich!</string>
+    <string name="mailbox_setting_message">Nachricht</string>
+    <string name="mailbox_setting_password">Passwort</string>
+    <string name="mailbox_setting_port">SMTP-Port</string>
+    <string name="mailbox_setting_receive_address">Senden an</string>
+    <string name="mailbox_setting_safety_connection">Verschlüsselungstyp</string>
+    <string name="mailbox_setting_save_failed">Mailbox settings saved failed</string>
+    <string name="mailbox_setting_save_success">E-Mail-Einstellung übernehmen erfolgreich!</string>
+    <string name="mailbox_setting_sending_address">Absender</string>
+    <string name="mailbox_setting_smtp_server">SMTP-Server</string>
+    <string name="mailbox_setting_test">Test</string>
+    <string name="mailbox_setting_test_email">Test-E-Mail-Einstellungen</string>
+    <string name="mailbox_setting_theme">Betreff</string>
+    <string name="mailbox_setting_username">Benutzername</string>
+    <string name="mailbox_setting_verification">Authentifizierung</string>
+    <string name="name">Name:</string>
+    <string name="new_psw">Neu:</string>
+    <string name="off">OFF</string>
+    <string name="old_psw">Alt:</string>
+    <string name="on">ON</string>
+    <string name="one_key_setting">WIFI Suche</string>
+    <string name="one_key_setting_wifi">WLAN verbinden</string>
+    <string name="open_motion_detection">Bewegungserkennung</string>
+    <string name="output_volume">Ausgangs-Lautstärke</string>
+    <string name="psw">Passwort</string>
+    <string name="range_video_setting_frame_rate">fps(1-%d)</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="resolution_ratio">Auflösung</string>
+    <string name="return_btn">Zurück</string>
+    <string name="save_pictures_to_ftp_server">Alarm, um Bilder für den FTP-Server zu erfassen</string>
+    <string name="save_videos_to_ftp_server">Speichern Sie das Video auf einem FTP-Server</string>
+    <string name="scan">Scan</string>
+    <string name="sd_card_setting_available_size">Freier Speicherplatz:</string>
+    <string name="sd_card_setting_btm_tips">Format-Befehl werden alle Daten von der SD-Karte gelöscht</string>
+    <string name="sd_card_setting_format_sd_card">MicroSD-Karte formatieren</string>
+    <string name="sd_card_setting_storage_size">Gesamtspeicherkapazität:</string>
+    <string name="search_camera_result">Suche Ereignis</string>
+    <string name="search_dialog_from">von</string>
+    <string name="search_dialog_to">Bis</string>
+    <string name="search_in_lan">Suche Kamera-UID von LAN</string>
+    <string name="search_video_a_day">Innerhalb eines Tages</string>
+    <string name="search_video_half_day">Innerhalb eines halben Tages</string>
+    <string name="search_video_hour">Innerhalb einer Stunde</string>
+    <string name="search_video_self">Abbrechen</string>
+    <string name="search_video_week">Innerhalb einer Woche</string>
+    <string name="second_tips_code_rate_range">Bitratenbereich ist 32–2048</string>
+    <string name="sends">zweite</string>
+    <string name="sensitivity">Ebene</string>
+    <string name="setting">Erweitert</string>
+    <string name="ssid">SSID</string>
+    <string name="sure">Sure</string>
+    <string name="sure_new_psw">Bestätigen:</string>
+    <string name="sure_to_exit">Bearbeiten</string>
+    <string name="system_setting_restart_camera">Kamera neu starten</string>
+    <string name="system_setting_restore_factory_settings">Kamera zurücksetzen</string>
+    <string name="system_setting_upgrade_online_settings">Check for updates</string>
+    <string name="take_picture_counts">Bild-Anzahl</string>
+    <string name="text_scan">Platzieren Sie den QR-Code innerhalb des Rechtecks</string>
+    <string name="tip_password_limit">
+Password length must not exceed Thirty-one!</string>
+    <string name="tip_perset_hint_input">Please input preset number (1-255)</string>
+    <string name="tip_perset_toast">Preset bits must not be greater than 255 or 0!</string>
+    <string name="tip_preset_fail">Preset bit setting failed</string>
+    <string name="tip_system_update">The camera is upgrading, please do not power off and keep the network available.</string>
+    <string name="tip_system_update_new">You have the latest version already.</string>
+    <string name="tip_system_update_old">Eine neue Firmware ist verfügbar, möchten Sie aktualisieren?</string>
+    <string name="tips_add_camera_exists"> Diese Kamera existiert bereits, bitte wählen Sie eine andere aus.</string>
+    <string name="tips_alarm_setting_failed">Alarm Setting Saving Failed</string>
+    <string name="tips_alarm_setting_success">Alarm Einstellung Speichern</string>
+    <string name="tips_audio_setting">Einstellung Erfolg</string>
+    <string name="tips_cancel_download_file">The file is being downloading, is it going to be cancelled?</string>
+    <string name="tips_delete_video_local">Sind Sie sicher, dass Sie Video zu entfernen?</string>
+    <string name="tips_device_time_setting_reboot_camera">nc Gerät Zeit Gerät neu starten, Weiter?</string>
+    <string name="tips_device_time_setting_synchroned_time">Synchronisierung mit Telefon Zeit Erfolg</string>
+    <string name="tips_device_time_setting_timezone"> nc Gerät Zeit Gerät neu starten, Weiter?</string>
+    <string name="tips_device_time_setting_timezone_new">Setting Time Successfully</string>
+    <string name="tips_downlaoding_video">Downloading video remotely.</string>
+    <string name="tips_format_sd_card">Beim Formatieren werden alle Daten auf der SD-Karte GELÖSCHT. Trotzdem fortfahren?</string>
+    <string name="tips_format_sd_card_success">Format SD Card Successfully</string>
+    <string name="tips_frame_rate_range">Maximaler Bildratenbereich ist 1–%d</string>
+    <string name="tips_illegal_uid">Illegal UID</string>
+    <string name="tips_internet_no_cameras">Devices not found on the internet</string>
+    <string name="tips_limit_add_camera">Limits 64 cameras</string>
+    <string name="tips_loading">Laden</string>
+    <string name="tips_long_press_preset_btn">Please press the reset key for 10 seconds</string>
+    <string name="tips_modify_security_code_ok">Ändern des Sicherheitscode erfolgreich, und es wird später erneut verbunden.</string>
+    <string name="tips_msg_delete_camera">Are you sure you want to delete the camera?</string>
+    <string name="tips_msg_delete_snapshot">Möchten Sie diesen Schnappschuss wirklich löschen?</string>
+    <string name="tips_msg_wifi_set_restart_app">Setup Wifi must restart App.Please restart Exit APP</string>
+    <string name="tips_network_disconnect">The network has been disconnected, please re Download</string>
+    <string name="tips_new_passwords_do_not_match">Die neuen Passwörter stimmen nicht überein.</string>
+    <string name="tips_no_permission">Please check the settings to open the relevant application permissions</string>
+    <string name="tips_no_picture">Kein Schnappschuss gefunden.</string>
+    <string name="tips_no_sdcard">In Ihrem Gerät wurde keine SD-Karte gefunden.</string>
+    <string name="tips_null_nike"> [Kamera Name] muss eingegeben werden.</string>
+    <string name="tips_null_uid">[UID] wurde nicht eingegeben.</string>
+    <string name="tips_null_username">[Benutzername] nicht eingegeben.</string>
+    <string name="tips_old_password_is_wrong">Das alte Passwort ist falsch.</string>
+    <string name="tips_one_key_set_wifi">Einstellung wifi, warten Moment</string>
+    <string name="tips_one_key_setting">   
+				Before click the apply button, 
+				please turn the phone volume up to the maximum, 
+				and put the phone close to the camera.</string>
+    <string name="tips_password_wrong_contains">Passwort kann nicht enthält ~ $ \ \\ =  + oder Raum</string>
+    <string name="tips_preset_set_btn">Voreinstellung festlegen erfolgreich</string>
+    <string name="tips_reboot_camera">Kamera neu starten?</string>
+    <string name="tips_recording_time_range">Der Zeitbereich von 15–%d sekunden</string>
+    <string name="tips_remove_success">Remove camera successfully</string>
+    <string name="tips_restore_factory_settings">Setup-Daten werden initialisiert. Sind Sie sicher, dass Sie zurücksetzen wollen?</string>
+    <string name="tips_snapshot_failed">Snapshot fehlgeschlagen.</string>
+    <string name="tips_snapshot_success">Snapshot erfolgreich.</string>
+    <string name="tips_stop_video">Video has stopped</string>
+    <string name="tips_summer_time">Uhr für Sommerzeit</string>
+    <string name="tips_time_video">Einstellung Erfolg</string>
+    <string name="tips_update_system_failed">Connection server failed </string>
+    <string name="tips_video_level_range">Bildqualitätsbereich 1–6</string>
+    <string name="tips_video_setting">Einstellung Erfolg</string>
+    <string name="tips_warning">Warnung</string>
+    <string name="tips_wifi_connect_failed">Connection failed! </string>
+    <string name="tips_wifi_connect_success">Connection success! </string>
+    <string name="tips_wifi_one_key_set">Hören Sie den Ton</string>
+    <string name="tips_wifi_setting">Einstellung Erfolg</string>
+    <string name="title_about_fragment">Über</string>
+    <string name="title_action_with_alarm">Vorgang bei Alarm</string>
+    <string name="title_alarm_list">Täglicher Alarm</string>
+    <string name="title_alarm_motion_detection">Alarmeinstellungen</string>
+    <string name="title_audio_setup">Audio-Einstellung</string>
+    <string name="title_camera_fragment">Kamera</string>
+    <string name="title_equipment_information">Gerätedaten</string>
+    <string name="title_equipment_setting">Gerätezeiteinstellung</string>
+    <string name="title_ftp_settings">FTP-Einstellung</string>
+    <string name="title_local_picture">Lokale Bild</string>
+    <string name="title_local_video">Lokale Video</string>
+    <string name="title_mailbox_settings">E-Mail-Einstellung</string>
+    <string name="title_modify_password">Sicherheitscode ändern</string>
+    <string name="title_online_video">Video</string>
+    <string name="title_picture_fragment">Picture</string>
+    <string name="title_scan_qr_code">Scannen QR-Code</string>
+    <string name="title_sdcard_setting">SD-Karten-Info</string>
+    <string name="title_search_dialog">Suche Ereignis</string>
+    <string name="title_search_video">SD-Karte Video</string>
+    <string name="title_system_settings">Systemeinstellung</string>
+    <string name="title_timing_video">Zeitgesteuerte Aufnahme</string>
+    <string name="title_user_settting">User Setting</string>
+    <string name="title_video_settings">Video-Einstellung</string>
+    <string name="title_wifi_setting">W-lan-Einstellung</string>
+    <string name="turn_on_video">Aufnahme aktivieren</string>
+    <string name="txtNoResultFound">Kein Ergebnis gefunden.</string>
+    <string name="txtSearchEventDuration"> Suche Ereignis vom:</string>
+    <string name="txt_live_flip">Umkehren</string>
+    <string name="txt_live_mirror">Spiegeln</string>
+    <string name="txt_recording">REC...</string>
+    <string name="uid">UID:</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="use_setting_show_psw">Display-Passwort</string>
+    <string name="user_name">Benutzername:</string>
+    <string name="video_file_times">Dauer der Aufnahmedateien</string>
+    <string name="video_fragment_local_btn">lokal</string>
+    <string name="video_fragment_online_btn">Online</string>
+    <string name="video_setting_btm_tips">(Je kleiner der Wert, desto besser die Bildqualität, höhere Ablaufsteuerung)</string>
+    <string name="video_setting_code_rate">Bit-rate</string>
+    <string name="video_setting_first_stream">1. Videokanal (Stream)</string>
+    <string name="video_setting_frame_rate">Maximale Bildrate</string>
+    <string name="video_setting_second_stream">2. Videokanal (Stream)</string>
+    <string name="video_setting_video_format">Videoformat</string>
+    <string name="video_setting_video_level">Bildqualität</string>
+    <string name="video_time">Aufnahmezeit</string>
+    <string name="wifi_setting_connect">link</string>
+    <string name="wifi_setting_connected">Verbunden</string>
+    <string name="wifi_setting_loading">Laden</string>
+    <string name="wifi_setting_manager_btn">WLAN-Manager</string>
+    <string name="wifi_setting_not_connect">Getrennt</string>
+    <string name="wifi_setting_safety">Sicherheitstyp:</string>
+    <string name="wifi_setting_signal_intensity">signal:</string>
+</resources>

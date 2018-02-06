@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="20dip"
+                android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_smtp_server" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_server_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_port" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_port_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_safety_connection" />
+
+                <Spinner
+                    android:id="@+id/mailbox_setting_safety_spn"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="25dip"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_verification" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ToggleButton
+                        android:id="@+id/mailbox_setting_check_tgbtn"
+                        android:layout_width="100dp"
+                        android:layout_height="50dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:textOff="@string/off"
+                        android:textOn="@string/on" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+               android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_username" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_username_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+               android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_password" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_psw_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+               android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip">
+
+                <TextView
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_receive_address" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_receive_address_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+              android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_sending_address" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_sending_address_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+               android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_theme" />
+
+                <EditText
+                    android:id="@+id/mailbox_setting_theme_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip"
+                android:text="@string/mailbox_setting_message" />
+
+            <EditText
+                android:id="@+id/mailbox_setting_message_edt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+               android:layout_marginBottom="10dip"
+               android:layout_marginTop="5dip"
+                android:layout_marginRight="15dip"
+                android:layout_marginLeft="15dip" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingBottom="10dip"
+                android:paddingRight="15dip"
+                android:paddingLeft="15dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mailbox_setting_test_email" />
+
+                <RelativeLayout
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3" >
+
+                    <Button
+                        android:id="@+id/mailbox_setting_test_btn"
+                        android:layout_width="100dip"
+                        android:layout_height="50dip"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/mailbox_setting_test" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/mailbox_setting_application_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dip"
+                android:text="@string/application" />
+        </LinearLayout>
+        
+    </ScrollView>
+
+</LinearLayout>

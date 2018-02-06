@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/radio_bg_normal"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="5dip" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="5dip"
+            android:text="@string/txt_live_mirror"
+            android:textColor="@color/white"
+            android:textSize="19sp" />
+
+        <ToggleButton
+            android:id="@+id/toggle_mirror"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:textColor="@color/white"
+            android:textOff="@string/off"
+            android:textOn="@string/on" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:padding="5dip"
+            android:gravity="center"
+            android:text="@string/txt_live_flip"
+            android:textColor="@color/white"
+            android:textSize="19sp" />
+
+        <ToggleButton
+            android:id="@+id/toggle_flip"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/white"
+            android:textOff="@string/off"
+            android:textOn="@string/on" />
+    </LinearLayout>
+
+</LinearLayout>
